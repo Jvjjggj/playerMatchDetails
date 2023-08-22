@@ -15,6 +15,16 @@ Content-Type: application/json
 
 ### API 3
 
-GET http://localhost:3004/matches/9/
+GET http://localhost:3004/matches/18/
 
 ### API 4
+
+GET http://localhost:3004/players/1/matches
+
+### API 5
+
+GET http://localhost:3004/matches/10/players
+
+### API 6
+
+GET http://localhost:3004/players/1/playerScores
